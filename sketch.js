@@ -20,7 +20,7 @@ function draw() {
   var width = window.innerWidth - 2*margin;
   var height = window.innerWidth - 2*margin;
   var space = 0;
-  var numSquares = window.innerWidth/;
+  var numSquares = window.innerWidth/20;
   var radius = width/(2*numSquares);
   
   translate(margin,margin);
